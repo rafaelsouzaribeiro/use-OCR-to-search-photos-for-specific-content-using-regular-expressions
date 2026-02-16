@@ -16,7 +16,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install opencv-python pytesseract notebook
 ```
 
-## Baixar linguagem (Português)
+## Baixar linguagem (Português e inglês)
 Crie a pasta `tessdata` (se necessário) e baixe o arquivo:
 ```bash
 mkdir -p tessdata
