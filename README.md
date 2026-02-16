@@ -1,5 +1,8 @@
 # use OCR to search photos for specific content using regular expressions
 
+Formato da expressão regular:
+- mês/ano
+
 Configurações e instruções para instalar e executar no Linux (Python 3).
 
 ## Requisitos
