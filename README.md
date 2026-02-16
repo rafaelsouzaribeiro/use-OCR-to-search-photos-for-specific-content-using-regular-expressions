@@ -1,4 +1,4 @@
-# OCR based photo search for specific content using regular expressions.
+# use OCR to search photos for specific content using regular expressions
 
 Configurações e instruções para instalar e executar no Linux (Python 3).
 
